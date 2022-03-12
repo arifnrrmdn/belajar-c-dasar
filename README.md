@@ -1,5 +1,3 @@
-# latihan-vue
+# belajar-c-dasar
 
-Follow my Instagram @arifnoerramadhan
-for more info
-thank you!
+Follow my Instagram @arifnoerramadhan for more info thank you!
