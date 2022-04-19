@@ -1,3 +1,11 @@
 # belajar-c-dasar
 
-Follow my Instagram @arifnoerramadhan for more info thank you!
+## Author
+
+[@arifnoerramadhan](https://www.instagram.com/arifnoerramadhan/)
+
+
+
+## Documentation
+
+[Duniailkom](https://www.duniailkom.com/)
